@@ -11,8 +11,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3> 
+
 <p>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiansyah99&show_icons=true&locale=en" alt="aldiansyah99" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiansyah99&show_icons=true&locale=en&layout=compact" alt="aldiansyah99" /></p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiansyah99&show_icons=true&locale=en" alt="aldiansyah99" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiansyah99&show_icons=true&locale=en&layout=compact" alt="aldiansyah99" />
+</p>
