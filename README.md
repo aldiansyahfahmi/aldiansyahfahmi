@@ -17,5 +17,5 @@
 </p>
 
 <p>
-\<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiansyah99&show_icons=true&locale=en&layout=compact" alt="aldiansyah99" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiansyah99&show_icons=true&locale=en&layout=compact" alt="aldiansyah99" />
 </p>
