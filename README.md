@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aldiansyah Fahmi</h1>
-<h3 align="center">I'm an Flutter Developer</h3>
+<p align="center">
+  <a href="http://aldev.tempatkoding.com/">
+    Portfolio
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Smartinovasi](https://smartinovasi.com/)
 
@@ -10,12 +14,12 @@
 <a href="https://instagram.com/aldiansyahf99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldiansyahf99" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Languages and Tools:</h3>
 
 <p>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiansyahfahmi&show_icons=true&locale=en&layout=compact" alt="aldiansyah99" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiansyahfahmi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aldiansyahfahmi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Aldiansyah Fahmi GitHub Stats" />
