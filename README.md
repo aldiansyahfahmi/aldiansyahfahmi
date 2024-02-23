@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldiansyah Fahmi</h1>
 <p align="center">
-  <a href="http://aldev.tempatkoding.com/" target="_blank">
+  <a href="http://aldiansyahfahmi.github.io/" target="_blank">
     Portfolio
   </a>
 </p>
