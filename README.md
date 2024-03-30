@@ -27,7 +27,7 @@
 
 ### Github Statistic
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aldiansyahfahmi&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aldiansyahfahmi&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Reach me on
 
