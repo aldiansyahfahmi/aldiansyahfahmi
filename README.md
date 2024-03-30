@@ -5,6 +5,17 @@
   </a>
 - 🔭 I’m currently working on [Smartinovasi](https://smartinovasi.com/)
 
+### Reach me on
+
+<a href="https://linkedin.com/in/aldiansyah99">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
+</a>
+<a href="https://instagram.com/aldiansyahf99">
+  <img align="left" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+
+</br>
+
 ### Tech Skills
 
 **Programming languange**
@@ -28,12 +39,3 @@
 ### Github Statistic
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aldiansyahfahmi&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Reach me on
-
-<a href="https://linkedin.com/in/aldiansyah99">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
-</a>
-<a href="https://instagram.com/aldiansyahf99">
-  <img align="left" alt="Instagram" title="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
