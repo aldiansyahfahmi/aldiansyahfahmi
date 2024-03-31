@@ -18,21 +18,9 @@
 
 ### Tech Skills
 
-**Programming languange**
-
 <p>
   <a href="https://github.com/topics/dart"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&color=045393&logo=Dart&logoColor=white"></a>
-</p>
-
-**Framework**
-
-<p>
   <a href="https://github.com/topics/flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"></a>
-</p>
-
-**UI/UX Design**
-
-<p>
   <a href="https://github.com/topics/figma"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&color=09C47C&logo=Figma&logoColor=white"></a>
 </p>
 
